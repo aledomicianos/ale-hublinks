@@ -1,5 +1,8 @@
+PS: o repositório ja tinha sido clonado no meu outro login particular
+
+
 # Hub Links
-Have your own link hub (page). In the best Linketree style. Made entirely in Bootstrap 5.
+Tenha seu próprio hub de links (página). No melhor estilo Linketree. Feito inteiramente em Bootstrap 5.
 
 ## Sobre o HubLink
 Este projeto foi desenvolvido pois precisava criar um hub de links a ser utilizado em minhas redes sociais, mas que que eu não precisa-se pagar e também para que eu tivesse maior controle sobre os elementos que deveriam aparecer.
